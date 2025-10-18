@@ -1,6 +1,8 @@
 # Incentivizing Truthful Language Models via Peer Elicitation Games
 Official repository for our paper: “Incentivizing Truthful Language Models via Peer Elicitation
 Games”.
+[Link Text](https://arxiv.org/abs/2505.13636)
+
 
 ## 🧠 Overview
 We introduce Peer Elicitation Games (PEG), a training-free, game-theoretic framework for eliciting truthfull behavior from LLMs.
@@ -79,4 +81,12 @@ initial_policy/initial_policy_diffModel_MMLU.ipynb
 
 ## 📎 Citation
 If you use this code or build on our method, please cite:
+```bibtex
+@article{chen2025incentivizing,
+  title={Incentivizing Truthful Language Models via Peer Elicitation Games},
+  author={Chen, Baiting and Zhu, Tong and Han, Jiale and Li, Lexin and Li, Gang and Dai, Xiaowu},
+  journal={arXiv preprint arXiv:2505.13636},
+  year={2025}
+}
+```
 
